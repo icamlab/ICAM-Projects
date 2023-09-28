@@ -1,4 +1,4 @@
 # ICAM-Projects
-Project Lead: Neifemi
+Project Lead: Nifemi
 --------------------------------------
 # 
