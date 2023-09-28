@@ -3,10 +3,10 @@ ICAM-LAB student project repository
 --------------------------------------
 # Current Approved Projects (Fall 2023)
 #
-IOT - Vulnerabilities and automation scripting
+IOT - Vulnerabilities and automation scripting (https://github.com/icamlab/ICAM-Projects/tree/IOT)
 #
-Facial recognition - Open CV
+Facial recognition - Open CV (https://github.com/icamlab/ICAM-Projects/tree/Facial-Recognition)
 #
-Zero Trust - networking
+Zero Trust - networking (https://github.com/icamlab/ICAM-Projects/tree/Zero-Trust)
 #
-RTLS - open haystack
+RTLS - open haystack (https://github.com/icamlab/ICAM-Projects/tree/RTLS)
