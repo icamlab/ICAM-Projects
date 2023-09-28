@@ -3,7 +3,7 @@ ICAM-LAB student project repository
 --------------------------------------
 # Current Approved Projects (Fall 2023)
 
-IOT - Vulnerabilities and automation scripting
-Facial recognition - Open CV
-Zero Trust - networking
-RTLS - open haystack
+IOT - Vulnerabilities and automation scripting /n
+Facial recognition - Open CV /n
+Zero Trust - networking /n
+RTLS - open haystack \n
