@@ -1,4 +1,4 @@
 # ICAM-Projects
-ICAM-LAB student project repository
+Project Lead: Victoria
 --------------------------------------
-# Current Approved Projects (Fall 2023)
+# 
